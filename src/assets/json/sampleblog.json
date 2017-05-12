@@ -1,0 +1,235 @@
+[{
+		"id": 1,
+		"title": "How to do html ?",
+		"detail": "Good appearance is not required. But web app need to support both web and mobile",
+		"like": [
+			{
+				 "user_id": "1"
+			},
+			{
+				 "user_id": "2"
+			},
+			{
+				 "user_id": "3"
+			}
+		],
+		"comments": [{
+				"id": 1,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "1",
+				"user_name": "Linh",
+				"like": [
+					{
+						"user_id": "1"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "2",
+				"user_name": "Linh san",
+				"like": [
+					{
+						"user_id": "2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "How to do CSS ?",
+		"detail": "Good appearance is not required. But web app need to support both web and mobile",
+		"like": [
+			{
+				 "user_id": "1"
+			},
+			{
+				 "user_id": "4"
+			},
+			{
+				 "user_id": "3"
+			}
+		],
+		"comments": [{
+				"id": 3,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "3",
+				"user_name": "New User",
+				"like": [
+					{
+						"user_id": "1"
+					}
+				]
+			},
+			{
+				"id": 4,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "4",
+				"user_name": "User 123",
+				"like": [
+					{
+						"user_id": "3"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "How to do html ?",
+		"detail": "Good appearance is not required. But web app need to support both web and mobile",
+		"like": [
+			{
+				 "user_id": "2"
+			},
+			{
+				 "user_id": "3"
+			}
+		],
+		"comments": [{
+				"id": 5,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "5",
+				"user_name": "Linh User",
+				"like": [
+					{
+						"user_id": "4"
+					}
+				]
+			},
+			{
+				"id": 6,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "6",
+				"user_name": "Linh",
+				"like": [
+					{
+						"user_id": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "How to Create Project VUE ?",
+		"detail": "npm init vue sdo",
+		"like": [
+			{
+				 "user_id": "1"
+			}
+		],
+		"comments": [{
+				"id": 7,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "7",
+				"user_name": "Linh 123",
+				"like": [
+					{
+						"user_id": "1"
+					}
+				]
+			},
+			{
+				"id": 8,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "8",
+				"user_name": "Linh 312",
+				"like": [
+					{
+						"user_id": "1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "How to init npm ?",
+		"detail": "npm install  ",
+		"like": [
+			{
+				 "user_id": "3"
+			}
+		],
+		"comments": [{
+				"id": 9,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "9",
+				"user_name": "Linh New",
+				"like": [
+					{
+						"user_id": "4"
+					}
+				]
+			},
+			{
+				"id": 10,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "10",
+				"user_name": "Anonymous",
+				"like": [
+					{
+						"user_id": "4"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "How to do html ?",
+		"detail": "Good appearance is not required. But web app need to support both web and mobile",
+		"like": [
+			{
+				 "user_id": "3"
+			},
+			{
+				 "user_id": "5"
+			},
+			{
+				 "user_id": " 4"
+			},
+			{
+				 "user_id": " 12"
+			}
+		],
+		"comments": [{
+				"id": 11,
+				"title": "Good",
+				"detail": "Good experience!!!",
+				"user_id": "11",
+				"user_name": "Web User",
+				"like": [
+					{
+						"user_id": "2"
+					}
+				]
+			},
+			{
+				"id": 12,
+				"title": "Bad",
+				"detail": "Bad experience!!!",
+				"user_id": "12",
+				"user_name": "New Web User",
+				"like": [
+					{
+						"user_id": "3"
+					}
+				]
+			}
+		]
+	}
+]

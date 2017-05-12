@@ -1,0 +1,24 @@
+//
+// global-footer
+// ---------------------------------------------------
+
+/* STRUCTURE
+
+#global-footer
+  .container
+    .footer-sitemap.row
+    .footer-utility.row
+*/
+
+// Base
+// ---------------------------------------------------
+
+.footer {
+  color: $color-white;
+  font-size: $font-size-xsmall;
+  font-weight: 400;
+  text-align: center;
+  background: $color-gray;
+  height: 30px;
+  line-height: 30px;
+}
